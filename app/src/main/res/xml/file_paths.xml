@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Map internal, cache, and external storage paths securely for file sharing -->
+    <external-path name="external_files" path="." />
+    <files-path name="recordings" path="recordings/" />
+    <cache-path name="cache_files" path="." />
+</paths>
